@@ -1,3 +1,0 @@
-## Welcome to OPSDEV Group
-
-More content to come soon...
